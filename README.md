@@ -22,7 +22,9 @@ sqlite> select * from Card;
 Master Card|23456789|234|Marry Smith|5000.0
 Visa|12345678|123|John Smith|4400.0
 sqlite> 
-Note install requirements.txt (pip3 install -r requirements.txt)
+
+*Note: install requirements.txt (pip3 install -r requirements.txt)
+
 #Example of use:
 $ python3 -d main.py
 Your full name: John Smith
